@@ -1,0 +1,13 @@
+body{
+  background-color:  #fafafa;
+}
+.dropdown:hover .dropdown-menu {
+  display: block;
+  z-index: 10;
+}
+.dark{
+  background-color: #202C36;
+}
+.light{
+  background-color: #fff;
+}
